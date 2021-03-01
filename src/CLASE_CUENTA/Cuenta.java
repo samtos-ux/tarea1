@@ -3,6 +3,7 @@ package CLASE_CUENTA;
 /**
  * @author Samuel Santos Garcia
  * @author Ana Xiluva Simango
+ * @author Sara Fernández Agudo
  */
 /*
  * Link del ejercicio: http://puntocomnoesunlenguaje.blogspot.com/2015/04/ejercicio-basico-poo-java.html
