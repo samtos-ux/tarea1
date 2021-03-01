@@ -2,6 +2,7 @@ package CLASE_CUENTA;
 
 /**
  * @author Samuel Santos Garcia
+ * @author Sara FernÃ¡ndez Agudo
  */
 /*
  * Link del ejercicio: http://puntocomnoesunlenguaje.blogspot.com/2015/04/ejercicio-basico-poo-java.html
@@ -9,9 +10,9 @@ package CLASE_CUENTA;
 import java.util.Scanner;
 
 /*
- * Crea una clase Cuenta con los métodos ingreso, reintegro y transferencia. 
- * La clase contendrá un constructor por defecto, un constructor con parámetros, 
- * un constructor copia y los métodos getters y setters.
+ * Crea una clase Cuenta con los mï¿½todos ingreso, reintegro y transferencia. 
+ * La clase contendrï¿½ un constructor por defecto, un constructor con parï¿½metros, 
+ * un constructor copia y los mï¿½todos getters y setters.
  */
 public class Cuenta {
 	// Atributos
@@ -45,7 +46,7 @@ public class Cuenta {
 	}
 
 	/*
-	 * Metodo Ingreso: true si la operación se ha podido realizar o false en caso
+	 * Metodo Ingreso: true si la operaciï¿½n se ha podido realizar o false en caso
 	 * contrario
 	 */
 	public boolean ingreso(double cantidad) {
@@ -58,7 +59,7 @@ public class Cuenta {
 	}
 
 	/*
-	 * Metodo Reintregro: true si la operación se ha podido realizar o false en caso
+	 * Metodo Reintregro: true si la operaciï¿½n se ha podido realizar o false en caso
 	 * contrario
 	 */
 	public boolean reintegro(double cantidad) {
